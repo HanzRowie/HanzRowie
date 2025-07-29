@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)]
+![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 <h1 align="center">Hi 👋, I'm Hanz Rowie Gurung</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
